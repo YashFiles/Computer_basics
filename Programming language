@@ -1,0 +1,14 @@
+There are 2 types of programming languages
+  -  low level -> close to machine code eg. assembly language (asm)
+  =  high level -> closer to human language eg. C++ , python , java etc.
+
+
+OBJECT ORIENTED LANGUAGES
+-> C++ , PYTHON , JAVA
+
+3 important properties of object oriented languages are 
+  -> encapsulation , polymorphism , inheritance
+
+encapsulation means that we can declare parts of code as public , private or protected as per the security requirements
+polymorphism 
+inheritance means that the child 
